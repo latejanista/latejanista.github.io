@@ -1,0 +1,18 @@
+widget: contact
+headless: true  # This file represents a page section.
+
+# Put Your Section Options Here (title, background, etc.) ...
+title: Contact Me
+subtitle: ''
+weight: 10
+
+content:
+  form:
+    provider: formspree
+    formspree:
+      id: /f/xvongeke
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
+
