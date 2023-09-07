@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Viviana June</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>SWAP1-SFPS-RRC1 splicing factor complex modulates pre-mRNA splicing to promote photomorphogenesis in Arabidopsis</title>
+      <link>https://example.com/publication/swap-journal-article/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/swap-journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pan-plant protein complex map reveals deep conservation and novel assemblies</title>
+      <link>https://example.com/publication/panplant-journal-article/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/panplant-journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Youth Science Workshops benefit student participants and graduate student mentors</title>
+      <link>https://example.com/publication/scifair-journal-article/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/scifair-journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juxtaposition of heterozygous and homozygous regions causes reciprocal crossover remodelling via interference during Arabidopsis meiosis</title>
+      <link>https://example.com/publication/crossover-journal-article/</link>
+      <pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/crossover-journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
