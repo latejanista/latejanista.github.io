@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetics | Viviana June</title>
+    <link>https://example.com/tag/genetics/</link>
+      <atom:link href="https://example.com/tag/genetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genetics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Genetics</title>
+      <link>https://example.com/tag/genetics/</link>
+    </image>
+    
+    <item>
+      <title>Heterosis Research</title>
+      <link>https://example.com/project/heterosis-research/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/heterosis-research/</guid>
+      <description>&lt;p&gt;My thesis focused on the genetics and molecular biology of heterosis in the plant Arabidopsis thaliana. Heterosis is a phenomenon in which offspring grow larger and stronger than either parent. Despite the widespread use of hybrid plants in agriculture, the underlying mechanism of heterosis has yet to be explained. Furthermore, there is a parent-of-origin effect on heterosis, where reciprocal hybrids show uneven levels of hybrid vigor.&lt;/p&gt;
+&lt;p&gt;In the first part of my thesis research, I investigated the hypothesis that increased heterozygosity results in growth vigor through a decrease in protein aggregation by fractionating the proteome of intraspecific and interspecific Arabidopsis hybrids and using LC-MS to survey the proteome. I also used these experiments to evaluate nonadditive protein expression in these hybrids. I found that there is nonadditive expression of proteins related to stress response in Arabidopsis intraspecific hybrids and interspecific allotetraploids, and that there is minimal change to protein solubility in these plants, indicating that it is unlikely to be a major contributor to heterosis.&lt;/p&gt;
+&lt;p&gt;In the second part of my thesis research, I employed cytoplasmic-nuclear substitution lines to investigate the contribution of the cytoplasmic genomes and genetic imprinting to the parent-of-origin effect on hybrid vigor. I used laser capture microdissection followed by RNA sequencing to identify changes in gene expression, as well as imprinted genes in the endosperm and embryo of reciprocal hybrids that differed in their cytoplasmic genomes or in their patterns of imprinting. I found that genetic imprinting, rather than the cytoplasmic genomes, is the primary contributor to the parent-of-origin effect in intraspecific Arabidopsis hybrids, with many genes differentially expressed between reciprocal hybrids with fixed cytoplasmic genomes, but very few differentially expressed genes when imprinting was fixed. Furthermore, I was able to identify imprinted genes using these hybrids, as well as established imprinted genes that lose biased expression in crosses between Col and C24.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outreach | Viviana June</title>
+    <link>https://example.com/tag/outreach/</link>
+      <atom:link href="https://example.com/tag/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Outreach</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Outreach</title>
+      <link>https://example.com/tag/outreach/</link>
+    </image>
+    
+    <item>
+      <title>Science Outreach and Education</title>
+      <link>https://example.com/project/science-outreach/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/science-outreach/</guid>
+      <description>&lt;p&gt;In graduate school, I became involved in a number of science outreach projects. I was involved with the UT Austin Present Your PhD to a middle schooler project, where graduate students present their thesis research to middle school classrooms as well as run a Kid&amp;rsquo;s Science Workshop once a year. This was a great opportunity to practice communicating science to diverse audiences, as well as gave local students the opportunity to engage with cutting edge research at UT Austin. We also conduct research into the effect of this research on the students we work with, and published a paper on the effect of our workshops in PLoS Biology in 2020.&lt;/p&gt;
+&lt;p&gt;I am also involved with the platform PlantingScience which pairs scientist mentors with classrooms to guide them through a few weeks of experiments related to a topic in plant science. I have been involved with PlantingScience both as a mentor and as a member of the Master Plant Science Team where I managed teams of mentors. PlantingScience provides the unique opportunity to work with students over several weeks - it&amp;rsquo;s always great seeing them learn and grow over the course of their projects.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
